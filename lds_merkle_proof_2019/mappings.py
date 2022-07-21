@@ -29,6 +29,13 @@ chain = {
       'sepolia': 11155111
     }
   },
+  'cspr': {
+    'id': 2,
+    'networks': {
+      'mainnet': 1,
+      'testnet': 3
+    }
+  },
   'mocknet': {
       'id': -1
   }
